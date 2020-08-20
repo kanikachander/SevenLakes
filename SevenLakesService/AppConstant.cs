@@ -11,5 +11,6 @@ namespace SevenLakesService
         public const string LoginSuccessful = "LoginSuccessful";
         public const string LoginUnsuccessful = "LoginUnsuccessful";
         public const string UserNotFound = "UserNotFound";
+        public const string PasswordChangedSuccessfully = "PasswordChangedSuccessfully";
     }
 }

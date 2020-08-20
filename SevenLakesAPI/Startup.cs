@@ -16,6 +16,7 @@ namespace SevenLakesAPI
 {
     public class Startup
     {
+        const string AllowOrigins = "_AllowOrigins";
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -26,6 +27,18 @@ namespace SevenLakesAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors(options =>
+            {
+                options.AddPolicy(AllowOrigins,
+                builder =>
+                {
+                    builder
+                    .AllowAnyOrigin()
+                    .AllowCredentials()
+                    .AllowAnyHeader()
+                    .AllowAnyMethod();
+                });
+            });
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddScoped<IUserService, UserService>();
         }
@@ -42,6 +55,7 @@ namespace SevenLakesAPI
                 app.UseHsts();
             }
 
+            app.UseCors(AllowOrigins);
             app.UseHttpsRedirection();
             app.UseMvc();
         }

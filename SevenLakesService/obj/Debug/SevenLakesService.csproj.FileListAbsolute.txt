@@ -4,3 +4,9 @@ C:\Users\KANIKA CHANDER\Desktop\WorkSpace\SevenLakesAPI\SevenLakesService\obj\De
 C:\Users\KANIKA CHANDER\Desktop\WorkSpace\SevenLakesAPI\SevenLakesService\obj\Debug\SevenLakesService.csproj.CoreCompileInputs.cache
 C:\Users\KANIKA CHANDER\Desktop\WorkSpace\SevenLakesAPI\SevenLakesService\obj\Debug\SevenLakesService.dll
 C:\Users\KANIKA CHANDER\Desktop\WorkSpace\SevenLakesAPI\SevenLakesService\obj\Debug\SevenLakesService.pdb
+C:\Users\ea915e\Desktop\Seven Lakes\SevenLakes\SevenLakesService\bin\Debug\SevenLakesService.dll
+C:\Users\ea915e\Desktop\Seven Lakes\SevenLakes\SevenLakesService\bin\Debug\SevenLakesService.pdb
+C:\Users\ea915e\Desktop\Seven Lakes\SevenLakes\SevenLakesService\obj\Debug\SevenLakesService.csprojAssemblyReference.cache
+C:\Users\ea915e\Desktop\Seven Lakes\SevenLakes\SevenLakesService\obj\Debug\SevenLakesService.csproj.CoreCompileInputs.cache
+C:\Users\ea915e\Desktop\Seven Lakes\SevenLakes\SevenLakesService\obj\Debug\SevenLakesService.dll
+C:\Users\ea915e\Desktop\Seven Lakes\SevenLakes\SevenLakesService\obj\Debug\SevenLakesService.pdb

@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\KANIKA CHANDER\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\KANIKA CHANDER\\.nuget\\packages",
+      "C:\\Users\\ea915e\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ea915e\\.nuget\\packages",
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }

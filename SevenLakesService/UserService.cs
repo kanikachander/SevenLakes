@@ -25,7 +25,11 @@ namespace SevenLakesService
 
         public string ResetPassword(User user)
         {
-            return "";
+            var userRecord = UserList.Where(i => i.Usr == user.Usr).FirstOrDefault();
+            if (userRecord == null)
+                return AppConstant.UserNotFound;
+            UserList.Where(i => i.Usr == user.Usr).FirstOrDefault().Pwd = user.Pwd;
+            return AppConstant.PasswordChangedSuccessfully;
         }
     }
 }
