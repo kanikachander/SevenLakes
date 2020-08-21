@@ -11,5 +11,6 @@ namespace SevenLakesService
         public int UserId { get; set; }
         public string Usr { get; set; }
         public string Pwd { get; set; }
+        public string Name { get; set; }
     }
 }

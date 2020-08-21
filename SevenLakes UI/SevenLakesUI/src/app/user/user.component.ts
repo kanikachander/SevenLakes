@@ -18,30 +18,35 @@ export class UserComponent implements OnInit {
   message: string;
   constructor(private service: UserServiceService, private router: Router) { }
 
-  login(){
+  login() {
     let user = {
       "usr": this.username,
       "pwd": this.password
     }
     this.service.Login(user).subscribe(data => {
       console.log(data);
-      this.router.navigateByUrl("page/" + data);
-      
+      if (data == "LoginSuccessful")
+        this.router.navigateByUrl("home/" + this.username);
+
+      else
+        this.router.navigateByUrl("page/" + data);
+
 
     })
   }
 
-  resetPassword(){
-    let user = {
-      "usr": this.username,
-      "pwd": this.password
-    }
-    this.service.Login(user).subscribe(data => {
-      console.log(data);
-      this.router.navigateByUrl("page/" + data);
-      
+  resetPassword() {
+    this.router.navigateByUrl("ResetPwd");
+    // let user = {
+    //   "usr": this.username,
+    //   "pwd": this.password
+    // }
+    // this.service.Login(user).subscribe(data => {
+    //   console.log(data);
+    //   this.router.navigateByUrl("ResetPwd");
 
-    })
+
+    // })
   }
 
 }

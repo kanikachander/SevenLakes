@@ -19,10 +19,11 @@ namespace SevenLakesAPI.Controllers
         }
 
         [HttpGet]
-        [Route("Test")]
-        public ActionResult<string> TestAPI()
+        [Route("GetUser")]
+        public ActionResult<User> GetUser(string username)
         {
-            return Ok("test");
+            var response = _userService.GetUser(username);
+            return response;
         }
 
         [HttpPost]
@@ -34,7 +35,7 @@ namespace SevenLakesAPI.Controllers
         }
 
         [Route("ResetPassword")]
-        public ActionResult<string> ResetPassword(User user)
+        public ActionResult<string> ResetPassword([FromBody]User user)
         {
             var response = _userService.ResetPassword(user);
             return response;

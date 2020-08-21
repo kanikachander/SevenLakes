@@ -10,3 +10,9 @@ C:\Users\ea915e\Desktop\Seven Lakes\SevenLakes\SevenLakesService\obj\Debug\Seven
 C:\Users\ea915e\Desktop\Seven Lakes\SevenLakes\SevenLakesService\obj\Debug\SevenLakesService.csproj.CoreCompileInputs.cache
 C:\Users\ea915e\Desktop\Seven Lakes\SevenLakes\SevenLakesService\obj\Debug\SevenLakesService.dll
 C:\Users\ea915e\Desktop\Seven Lakes\SevenLakes\SevenLakesService\obj\Debug\SevenLakesService.pdb
+C:\Users\ea915e\Desktop\SevenLakes\SevenLakes\SevenLakesService\bin\Debug\SevenLakesService.dll
+C:\Users\ea915e\Desktop\SevenLakes\SevenLakes\SevenLakesService\bin\Debug\SevenLakesService.pdb
+C:\Users\ea915e\Desktop\SevenLakes\SevenLakes\SevenLakesService\obj\Debug\SevenLakesService.csprojAssemblyReference.cache
+C:\Users\ea915e\Desktop\SevenLakes\SevenLakes\SevenLakesService\obj\Debug\SevenLakesService.csproj.CoreCompileInputs.cache
+C:\Users\ea915e\Desktop\SevenLakes\SevenLakes\SevenLakesService\obj\Debug\SevenLakesService.dll
+C:\Users\ea915e\Desktop\SevenLakes\SevenLakes\SevenLakesService\obj\Debug\SevenLakesService.pdb

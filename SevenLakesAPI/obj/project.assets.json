@@ -12551,11 +12551,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ea915e\\Desktop\\Seven Lakes\\SevenLakes\\SevenLakesAPI\\SevenLakesAPI.csproj",
+      "projectUniqueName": "C:\\Users\\ea915e\\Desktop\\SevenLakes\\SevenLakes\\SevenLakesAPI\\SevenLakesAPI.csproj",
       "projectName": "SevenLakesAPI",
-      "projectPath": "C:\\Users\\ea915e\\Desktop\\Seven Lakes\\SevenLakes\\SevenLakesAPI\\SevenLakesAPI.csproj",
+      "projectPath": "C:\\Users\\ea915e\\Desktop\\SevenLakes\\SevenLakes\\SevenLakesAPI\\SevenLakesAPI.csproj",
       "packagesPath": "C:\\Users\\ea915e\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ea915e\\Desktop\\Seven Lakes\\SevenLakes\\SevenLakesAPI\\obj\\",
+      "outputPath": "C:\\Users\\ea915e\\Desktop\\SevenLakes\\SevenLakes\\SevenLakesAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12574,8 +12574,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\ea915e\\Desktop\\Seven Lakes\\SevenLakes\\SevenLakesService\\SevenLakesService.csproj": {
-              "projectPath": "C:\\Users\\ea915e\\Desktop\\Seven Lakes\\SevenLakes\\SevenLakesService\\SevenLakesService.csproj"
+            "C:\\Users\\ea915e\\Desktop\\SevenLakes\\SevenLakes\\SevenLakesService\\SevenLakesService.csproj": {
+              "projectPath": "C:\\Users\\ea915e\\Desktop\\SevenLakes\\SevenLakes\\SevenLakesService\\SevenLakesService.csproj"
             }
           }
         }

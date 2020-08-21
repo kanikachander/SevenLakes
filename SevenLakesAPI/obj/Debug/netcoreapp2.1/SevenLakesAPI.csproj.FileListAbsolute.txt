@@ -32,3 +32,20 @@ C:\Users\ea915e\Desktop\Seven Lakes\SevenLakes\SevenLakesAPI\obj\Debug\netcoreap
 C:\Users\ea915e\Desktop\Seven Lakes\SevenLakes\SevenLakesAPI\obj\Debug\netcoreapp2.1\SevenLakesAPI.csproj.CopyComplete
 C:\Users\ea915e\Desktop\Seven Lakes\SevenLakes\SevenLakesAPI\obj\Debug\netcoreapp2.1\SevenLakesAPI.dll
 C:\Users\ea915e\Desktop\Seven Lakes\SevenLakes\SevenLakesAPI\obj\Debug\netcoreapp2.1\SevenLakesAPI.pdb
+C:\Users\ea915e\Desktop\SevenLakes\SevenLakes\SevenLakesAPI\bin\Debug\netcoreapp2.1\SevenLakesAPI.deps.json
+C:\Users\ea915e\Desktop\SevenLakes\SevenLakes\SevenLakesAPI\bin\Debug\netcoreapp2.1\SevenLakesAPI.runtimeconfig.json
+C:\Users\ea915e\Desktop\SevenLakes\SevenLakes\SevenLakesAPI\bin\Debug\netcoreapp2.1\SevenLakesAPI.runtimeconfig.dev.json
+C:\Users\ea915e\Desktop\SevenLakes\SevenLakes\SevenLakesAPI\bin\Debug\netcoreapp2.1\SevenLakesAPI.dll
+C:\Users\ea915e\Desktop\SevenLakes\SevenLakes\SevenLakesAPI\bin\Debug\netcoreapp2.1\SevenLakesAPI.pdb
+C:\Users\ea915e\Desktop\SevenLakes\SevenLakes\SevenLakesAPI\bin\Debug\netcoreapp2.1\SevenLakesService.dll
+C:\Users\ea915e\Desktop\SevenLakes\SevenLakes\SevenLakesAPI\bin\Debug\netcoreapp2.1\SevenLakesService.pdb
+C:\Users\ea915e\Desktop\SevenLakes\SevenLakes\SevenLakesAPI\obj\Debug\netcoreapp2.1\SevenLakesAPI.csprojAssemblyReference.cache
+C:\Users\ea915e\Desktop\SevenLakes\SevenLakes\SevenLakesAPI\obj\Debug\netcoreapp2.1\SevenLakesAPI.csproj.CoreCompileInputs.cache
+C:\Users\ea915e\Desktop\SevenLakes\SevenLakes\SevenLakesAPI\obj\Debug\netcoreapp2.1\SevenLakesAPI.RazorAssemblyInfo.cache
+C:\Users\ea915e\Desktop\SevenLakes\SevenLakes\SevenLakesAPI\obj\Debug\netcoreapp2.1\SevenLakesAPI.RazorAssemblyInfo.cs
+C:\Users\ea915e\Desktop\SevenLakes\SevenLakes\SevenLakesAPI\obj\Debug\netcoreapp2.1\SevenLakesAPI.AssemblyInfoInputs.cache
+C:\Users\ea915e\Desktop\SevenLakes\SevenLakes\SevenLakesAPI\obj\Debug\netcoreapp2.1\SevenLakesAPI.AssemblyInfo.cs
+C:\Users\ea915e\Desktop\SevenLakes\SevenLakes\SevenLakesAPI\obj\Debug\netcoreapp2.1\SevenLakesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ea915e\Desktop\SevenLakes\SevenLakes\SevenLakesAPI\obj\Debug\netcoreapp2.1\SevenLakesAPI.csproj.CopyComplete
+C:\Users\ea915e\Desktop\SevenLakes\SevenLakes\SevenLakesAPI\obj\Debug\netcoreapp2.1\SevenLakesAPI.dll
+C:\Users\ea915e\Desktop\SevenLakes\SevenLakes\SevenLakesAPI\obj\Debug\netcoreapp2.1\SevenLakesAPI.pdb

@@ -14,11 +14,13 @@ export class PageComponent implements OnInit {
 
   ngOnInit() {
     this._activatedRouter.params.subscribe(params => { this.message = params['msg']; });
-    if(this.message == "LoginSuccessful")
-        this.displayMessage = "Login Successful";
-      else if(this.message == "LoginUnsuccessful")
-        this.displayMessage = "Incorrect Password";
-      else
+    if (this.message == "LoginSuccessful")
+      this.displayMessage = "Login Successful";
+    else if (this.message == "LoginUnsuccessful")
+      this.displayMessage = "Incorrect Password";
+    else if (this.message = "PasswordChangedSuccessfully")
+      this.displayMessage = "Password Changed Successfully"
+    else
       this.displayMessage = "User Not Found";
   }
 

@@ -10,5 +10,6 @@ namespace SevenLakesService
     {
         string Login(User user);
         string ResetPassword(User user);
+        User GetUser(string username);
     }
 }

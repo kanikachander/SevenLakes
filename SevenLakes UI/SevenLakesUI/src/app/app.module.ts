@@ -7,12 +7,16 @@ import { AppComponent } from './app.component';
 import { UserComponent } from './user/user.component';
 import { AppRoutingModule } from './app-routing.module';
 import { PageComponent } from './page/page.component';
+import { HomeComponent } from './home/home.component';
+import { ResetPasswordComponent } from './reset-password/reset-password.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     UserComponent,
-    PageComponent
+    PageComponent,
+    HomeComponent,
+    ResetPasswordComponent
   ],
   imports: [
     BrowserModule,
