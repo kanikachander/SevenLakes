@@ -23,7 +23,7 @@ namespace SevenLakesAPI.Controllers
         public ActionResult<User> GetUser(string username)
         {
             var response = _userService.GetUser(username);
-            return response;
+            return Ok(response);
         }
 
         [HttpPost]
@@ -31,14 +31,14 @@ namespace SevenLakesAPI.Controllers
         public ActionResult<string> Login([FromBody]User user)
         {
             var response = _userService.Login(user);
-            return response;
+            return Ok(response);
         }
 
         [Route("ResetPassword")]
         public ActionResult<string> ResetPassword([FromBody]User user)
         {
             var response = _userService.ResetPassword(user);
-            return response;
+            return Ok(response);
         }
     }
 }
