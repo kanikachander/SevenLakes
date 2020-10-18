@@ -37,16 +37,16 @@ export class UserComponent implements OnInit {
 
   resetPassword() {
     this.router.navigateByUrl("ResetPwd");
-    // let user = {
-    //   "usr": this.username,
-    //   "pwd": this.password
-    // }
-    // this.service.Login(user).subscribe(data => {
-    //   console.log(data);
-    //   this.router.navigateByUrl("ResetPwd");
+     let user = {
+       "usr": this.username,
+       "pwd": this.password
+     }
+     this.service.Login(user).subscribe(data => {
+       console.log(data);
+       this.router.navigateByUrl("ResetPwd");
 
 
-    // })
+     })
   }
 
 }
